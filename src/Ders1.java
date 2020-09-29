@@ -10,6 +10,9 @@ public class Ders1 {
 		
 		
 		System.out.println("Saat : 18:11");
+		
+		
+		System.out.println("Saat : 18:17 mustafa");
 
 	}
 
