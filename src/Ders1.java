@@ -2,7 +2,11 @@
 public class Ders1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Saat : 17:52");
+		
+		
+		
+		System.out.println("Saat : 17:55");
 
 	}
 
